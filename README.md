@@ -1,6 +1,12 @@
 
 <p align="center">
-    <h2 align="center">Serviço de Reserva de imóveis API</h2>
+    <h2 align="center">
+        Reserva de imóveis API
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg">
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </h2>
     <a href="https://github.com/jordansaran/reservation-api/actions">
       <img alt="Tests Passing" src="https://github.com/jordansaran/reservation-api/workflows/reservation-api-test-coverage/badge.svg" />
     </a>
@@ -26,8 +32,8 @@ Logo abaixo é apresentado opções de instalação de ambiente, sendo:
 
 ````shell
 # clone o repositório
-$ git clone 
-$ cd 
+$ git clone https://github.com/jordansaran/reservation-api.git
+$ cd reservation-api
 ````
 
 ## 1.1. Criar ambiente virtual

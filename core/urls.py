@@ -30,9 +30,9 @@ router.register(r'ads', AdsViewSet, basename="ad")
 
 schema_view = get_schema_view(
    openapi.Info(
-      title="Services hotels API",
+      title="Reservation API",
       default_version='v1.0.0',
-      description="Service Hotel",
+      description="Reservation API",
       terms_of_service="",
       contact=openapi.Contact(email="contato@sentineltech.com.br"),
       license=openapi.License(name="MIT License"),
