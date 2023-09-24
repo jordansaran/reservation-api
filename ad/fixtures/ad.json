@@ -1,0 +1,35 @@
+[
+{
+    "model": "ad.ads",
+    "pk": "0c7383d8-4cfe-427c-83f0-55b0df641993",
+    "fields": {
+        "created_at": "2023-09-23T12:08:52.011Z",
+        "updated_at": "2023-09-23T12:08:52.011Z",
+        "property": "f560d01c-32e5-4210-a1aa-416356c565b7",
+        "platform": "AirBnb",
+        "platform_rate": 250.0
+    }
+},
+{
+    "model": "ad.ads",
+    "pk": "1f2ba0fd-688d-4e09-8735-cd2e22a704fd",
+    "fields": {
+        "created_at": "2023-09-23T10:57:57.243Z",
+        "updated_at": "2023-09-23T10:57:57.243Z",
+        "property": "52d3ca4c-141f-4d15-9908-c99459071ff3",
+        "platform": "Booking",
+        "platform_rate": 130.0
+    }
+},
+{
+    "model": "ad.ads",
+    "pk": "e283984d-2363-49bf-9280-ad956601fa05",
+    "fields": {
+        "created_at": "2023-09-23T10:57:07.188Z",
+        "updated_at": "2023-09-23T10:57:07.188Z",
+        "property": "52d3ca4c-141f-4d15-9908-c99459071ff3",
+        "platform": "AirBnb",
+        "platform_rate": 120.0
+    }
+}
+]

@@ -1,0 +1,114 @@
+[
+{
+    "model": "booking.booking",
+    "pk": "6WJY4LCIQMA2COQ3",
+    "fields": {
+        "created_at": "2023-09-23T16:06:09.301Z",
+        "updated_at": "2023-09-23T16:06:09.301Z",
+        "ad": "1f2ba0fd-688d-4e09-8735-cd2e22a704fd",
+        "check_in": "2023-10-05",
+        "check_out": "2023-10-08",
+        "total_price": 470.0,
+        "comment": "Teste 3",
+        "number_guests": 2
+    }
+},
+{
+    "model": "booking.booking",
+    "pk": "7UI0WWFG7TNGTHKV",
+    "fields": {
+        "created_at": "2023-09-23T15:52:02.369Z",
+        "updated_at": "2023-09-23T15:52:02.370Z",
+        "ad": "0c7383d8-4cfe-427c-83f0-55b0df641993",
+        "check_in": "2023-10-02",
+        "check_out": "2023-10-06",
+        "total_price": 1130.0,
+        "comment": "Teste 2",
+        "number_guests": 4
+    }
+},
+{
+    "model": "booking.booking",
+    "pk": "C3A1SW9TZ0UBXMP3",
+    "fields": {
+        "created_at": "2023-09-23T15:53:53.301Z",
+        "updated_at": "2023-09-23T15:53:53.301Z",
+        "ad": "0c7383d8-4cfe-427c-83f0-55b0df641993",
+        "check_in": "2023-11-01",
+        "check_out": "2023-11-04",
+        "total_price": 880.0,
+        "comment": "Teste 2",
+        "number_guests": 2
+    }
+},
+{
+    "model": "booking.booking",
+    "pk": "O5VU3PJK4E646TJP",
+    "fields": {
+        "created_at": "2023-09-23T14:50:48.928Z",
+        "updated_at": "2023-09-23T14:50:48.928Z",
+        "ad": "e283984d-2363-49bf-9280-ad956601fa05",
+        "check_in": "2023-09-23",
+        "check_out": "2023-09-24",
+        "total_price": 200.0,
+        "comment": "Teste 1",
+        "number_guests": 2
+    }
+},
+{
+    "model": "booking.booking",
+    "pk": "OXTKPPIJHLOAJDFM",
+    "fields": {
+        "created_at": "2023-09-23T14:51:13.023Z",
+        "updated_at": "2023-09-23T14:51:13.023Z",
+        "ad": "e283984d-2363-49bf-9280-ad956601fa05",
+        "check_in": "2023-10-02",
+        "check_out": "2023-10-05",
+        "total_price": 440.0,
+        "comment": "Teste 1",
+        "number_guests": 2
+    }
+},
+{
+    "model": "booking.booking",
+    "pk": "V2WBB6T7OGPHWNDO",
+    "fields": {
+        "created_at": "2023-09-23T14:51:01.160Z",
+        "updated_at": "2023-09-23T14:51:01.160Z",
+        "ad": "e283984d-2363-49bf-9280-ad956601fa05",
+        "check_in": "2023-09-26",
+        "check_out": "2023-09-30",
+        "total_price": 560.0,
+        "comment": "Teste 1",
+        "number_guests": 2
+    }
+},
+{
+    "model": "booking.booking",
+    "pk": "YGFKHCU2CK6UQ40S",
+    "fields": {
+        "created_at": "2023-09-23T16:06:18.626Z",
+        "updated_at": "2023-09-23T16:06:18.626Z",
+        "ad": "1f2ba0fd-688d-4e09-8735-cd2e22a704fd",
+        "check_in": "2023-10-25",
+        "check_out": "2023-10-26",
+        "total_price": 210.0,
+        "comment": "Teste 3",
+        "number_guests": 2
+    }
+},
+{
+    "model": "booking.booking",
+    "pk": "ZN5VXOZQEYNOMGZ8",
+    "fields": {
+        "created_at": "2023-09-23T15:53:05.400Z",
+        "updated_at": "2023-09-23T15:53:05.400Z",
+        "ad": "0c7383d8-4cfe-427c-83f0-55b0df641993",
+        "check_in": "2023-10-08",
+        "check_out": "2023-10-12",
+        "total_price": 1130.0,
+        "comment": "Teste 2",
+        "number_guests": 5
+    }
+}
+]
